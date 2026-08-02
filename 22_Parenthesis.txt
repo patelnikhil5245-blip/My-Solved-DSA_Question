@@ -1,0 +1,34 @@
+class Solution {
+    public List<String> generateParenthesis(int n) {
+        List<String>ans=new ArrayList<>();
+        StringBuilder sb = new StringBuilder();
+     class Solution {
+    public List<String> generateParenthesis(int n) {
+        List<String>ans=new ArrayList<>();
+        StringBuilder sb = new StringBuilder();
+        generate(n,0,0,sb,ans);
+        return ans;
+        
+    }
+    public void generate(int n ,int l,int r,StringBuilder sb,List<String>ans){
+        if (r+l==2*n)
+         ans.add(sb.toString());
+         return;
+
+         // left parenthesis
+         if(l< n){
+            sb.append("(");
+            generate(n,l+1,r,sb,ans);
+            sb.deleteCharAt(sb.length() - 1);
+
+         }
+         //right parenthesis
+          if(l>r){
+            sb.append(")");
+            generate(n,l,r+1,sb,ans);
+            sb.deleteCharAt(sb.length() - 1);
+
+         }
+    } 
+}   
+
