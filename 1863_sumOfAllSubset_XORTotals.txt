@@ -1,0 +1,16 @@
+class Solution {
+    
+    public int recur(int[] nums, int i, int xor) {
+
+        if (i == nums.length) {
+            return xor;
+        }
+
+        return recur(nums, i + 1, xor ^ nums[i]) +  recur(nums, i + 1, xor);
+    }
+
+    public int subsetXORSum(int[] nums) {
+        ArrayList<Integer> al = new ArrayList<>();
+        return recur(nums,0, 0);
+    }
+}
