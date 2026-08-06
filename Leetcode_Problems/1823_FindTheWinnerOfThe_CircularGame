@@ -1,0 +1,57 @@
+
+https://leetcode.com/problems/find-the-winner-of-the-circular-game/
+
+class Solution {
+    public int findTheWinner(int n, int k) {
+        int ans = 0;
+
+        for (int i = 2; i <= n; i++) {
+            ans = (ans + k) % i;
+        }
+
+        return ans + 1;
+    }
+}
+
+// 2nd Apprach by using the recursion 
+
+class Solution {
+    public int findTheWinner(int n, int k) {
+        boolean[] person = new boolean[n];
+        return winner(person, n, 0, n, k);
+    }
+
+    public int winner(boolean[] person, int n, int index, int person_Left, int k) {
+
+        if (person_Left == 1) {
+            for (int i = 0; i < n; i++) {
+                if (!person[i]) {
+                    return i + 1; // 1-based indexing
+                }
+            }
+        }
+
+        int kill = k - 1;
+
+        while (kill > 0) {
+            index = (index + 1) % n;
+
+            while (person[index]) {
+                index = (index + 1) % n;
+            }
+
+            kill--;
+        }
+
+        // Eliminate current person
+        person[index] = true;
+
+        // Move to next alive person
+        index = (index + 1) % n;
+        while (person[index]) {
+            index = (index + 1) % n;
+        }
+
+        return winner(person, n, index, person_Left - 1, k);
+    }
+}
