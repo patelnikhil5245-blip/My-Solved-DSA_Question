@@ -1,0 +1,36 @@
+
+Print N-bit binary numbers having more 1s than 0s
+Problem:https://www.geeksforgeeks.org/problems/print-n-bit-binary-numbers-having-more-1s-than-0s0252/1
+
+class Solution {
+    ArrayList<String> nBitBinary(int n) {
+
+        ArrayList<String> Ans = new ArrayList<>();
+        StringBuilder temp = new StringBuilder();
+
+        find(n, Ans, temp, 0, 0);
+
+        return Ans;
+    }
+
+    void find(int n, ArrayList<String> Ans, StringBuilder temp, int zero, int one) {
+
+        if (temp.length() == n) {
+            Ans.add(temp.toString());
+            return;
+        }
+
+        temp.append('1');
+        find(n, Ans, temp, zero, one + 1);
+        temp.deleteCharAt(temp.length() - 1);
+    
+        if (zero < one) {
+            temp.append('0');
+            find(n, Ans, temp, zero + 1, one);
+            temp.deleteCharAt(temp.length() - 1);
+        }
+
+        
+    }    
+}
+
