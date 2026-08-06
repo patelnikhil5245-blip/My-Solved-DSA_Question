@@ -1,0 +1,35 @@
+https://www.geeksforgeeks.org/problems/coin-change2448/1
+
+class Solution {
+
+    public int count(int[] coins, int sum) {
+       // code here
+        int n = coins.length;
+        int[][] dp = new int[n][sum + 1];
+
+        for (int i = 0; i < n; i++) {
+            Arrays.fill(dp[i], -1);
+        }
+
+        return solve(coins, sum, 0, dp);
+    }
+
+    private int solve(int[] coins, int sum, int index, int[][] dp) {
+
+        if (sum == 0)
+            return 1;
+
+        if (sum < 0 || index == coins.length)
+            return 0;
+
+        if (dp[index][sum] != -1)
+            return dp[index][sum];
+
+        int take = solve(coins, sum - coins[index], index, dp);
+
+        int notTake = solve(coins, sum, index + 1, dp);
+
+        return dp[index][sum] = take + notTake;
+    }
+}
+
