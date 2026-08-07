@@ -1,0 +1,90 @@
+
+51_N-Queens
+Problem Link:https://leetcode.com/problems/n-queens/
+
+class Solution {
+    // Check if placing a queen at (row, col) is safe
+    private boolean isSafe(int row, int col, int n, List<StringBuilder> board) {
+
+        // Check same column
+        for (int i = 0; i < row; i++) {
+            if (board.get(i).charAt(col) == 'Q') {
+                return false;
+            }
+        }
+
+        // Check upper-left diagonal
+        int r = row - 1;
+        int c = col - 1;
+        while (r >= 0 && c >= 0) {
+            if (board.get(r).charAt(c) == 'Q') {
+                return false;
+            }
+            r--;
+            c--;
+        }
+
+        // Check upper-right diagonal
+        r = row - 1;
+        c = col + 1;
+        while (r >= 0 && c < n) {
+            if (board.get(r).charAt(c) == 'Q') {
+                return false;
+            }
+            r--;
+            c++;
+        }
+
+        return true;
+    }
+
+    // Backtracking function
+    private void solve(int row, int n, List<StringBuilder> board,
+                       List<List<String>> ans) {
+
+        // Base case
+        if (row == n) {
+            List<String> temp = new ArrayList<>();
+            for (StringBuilder sb : board) {
+                temp.add(sb.toString());
+            }
+            ans.add(temp);
+            return;
+        }
+
+        // Try placing queen in every column
+        for (int col = 0; col < n; col++) {
+
+            if (isSafe(row, col, n, board)) {
+
+                // Place queen
+                board.get(row).setCharAt(col, 'Q');
+
+                // Recurse for next row
+                solve(row + 1, n, board, ans);
+
+                // Backtrack
+                board.get(row).setCharAt(col, '.');
+            }
+        }
+    }
+
+    public List<List<String>> solveNQueens(int n) {
+
+        List<List<String>> ans = new ArrayList<>();
+
+        List<StringBuilder> board = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            StringBuilder sb = new StringBuilder();
+            for (int j = 0; j < n; j++) {
+                sb.append('.');
+            }
+            board.add(sb);
+        }
+
+        solve(0, n, board, ans);
+
+        return ans;
+    }
+}
+    
