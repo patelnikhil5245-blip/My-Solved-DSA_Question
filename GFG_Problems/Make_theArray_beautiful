@@ -1,0 +1,39 @@
+Make the array beautiful
+Problem:https://www.geeksforgeeks.org/problems/make-the-array-beautiful--170647/1
+
+class Solution {
+    List<Integer> makeBeautiful(int[] arr) {
+        //code here
+        List<Integer> ans = new ArrayList<>();
+        Stack<Integer> st = new Stack<>();
+
+        for (int i = 0; i < arr.length; i++) {
+
+            if (st.empty()) {
+                st.push(arr[i]);
+            }
+            else if (arr[i] >= 0) {
+                if (st.peek() >= 0) {
+                    st.push(arr[i]);
+                }
+                else {
+                    st.pop();
+                }
+            }
+            else {
+                if (st.peek() < 0) {
+                    st.push(arr[i]);
+                }
+                else {
+                    st.pop();
+                }
+            }
+        }
+
+        while (!st.empty()) {
+            ans.add(0, st.pop());
+        }
+
+        return ans;
+    }
+}
