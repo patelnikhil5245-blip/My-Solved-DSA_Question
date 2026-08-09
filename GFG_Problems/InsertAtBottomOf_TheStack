@@ -1,0 +1,19 @@
+
+Insert at Bottom of Stack:https://www.geeksforgeeks.org/problems/insert-an-element-at-the-bottom-of-a-stack/1?page=2&category=Stack&difficulty=Easy&sortBy=submissions
+
+class Solution {
+    public Stack<Integer> insertAtBottom(Stack<Integer> st, int x) {
+        // code here
+        Stack<Integer> st2=new Stack<>();
+        while(!st.empty()){
+            st2.push(st.peek());
+            st.pop();
+        }
+        st.push(x);
+        while(!st2.empty()){
+            st.push(st2.peek());
+            st2.pop();
+        }
+        return st;
+    }
+} 
