@@ -1,0 +1,49 @@
+844_BackspaceString_Compare
+Problem:https://leetcode.com/problems/backspace-string-compare/description/
+
+class Solution {
+    public boolean backspaceCompare(String s, String t) {
+
+        Stack<Character> st = new Stack<>();
+        StringBuilder sb1 = new StringBuilder();
+
+        // Process s
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) == '#') {
+                if (!st.empty()) {
+                    st.pop();
+                }
+            } else {
+                st.push(s.charAt(i));
+            }
+        }
+
+        while (!st.empty()) {
+            sb1.append(st.pop());
+        }
+
+        String S = sb1.reverse().toString();
+
+        // Process t
+        StringBuilder sb2 = new StringBuilder();
+
+        for (int i = 0; i < t.length(); i++) {
+            if (t.charAt(i) == '#') {
+                if (!st.empty()) {
+                    st.pop();
+                }
+            } else {
+                st.push(t.charAt(i));
+            }
+        }
+
+        while (!st.empty()) {
+            sb2.append(st.pop());
+        }
+
+        String T = sb2.reverse().toString();
+
+        return S.equals(T);
+    }
+}
+
