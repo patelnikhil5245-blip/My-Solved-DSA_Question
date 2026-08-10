@@ -1,0 +1,26 @@
+
+Print Bracket Number
+https://www.geeksforgeeks.org/problems/print-bracket-number4058/1?page=1&difficulty[]=0&category[]=Stack&sortBy=submissions
+
+class Solution {
+    ArrayList<Integer> bracketNumbers(String s) {
+        ArrayList<Integer> ans = new ArrayList<>();
+        Stack<Integer> st = new Stack<>();
+
+        int count = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+
+            if (s.charAt(i) == '(') {
+                count++;
+                st.push(count);
+                ans.add(count);
+            } 
+            else if (s.charAt(i) == ')') {
+                ans.add(st.pop());
+            }
+        }
+
+        return ans;
+    }
+}
