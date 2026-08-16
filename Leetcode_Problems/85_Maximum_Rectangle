@@ -1,0 +1,79 @@
+
+85.Maximum Rectangle :https://leetcode.com/problems/maximal-rectangle/description/
+
+class Solution {
+    public int maximalRectangle(char[][] matrix) {
+
+        int ans = 0;
+
+        int rows = matrix.length;
+        int cols = matrix[0].length;
+
+        int[] heights = new int[cols];
+
+        for (int i = 0; i < rows; i++) {
+
+            for (int j = 0; j < cols; j++) {
+
+                if (matrix[i][j] == '0') {
+                    heights[j] = 0;
+                } else {
+                    heights[j]++;
+                }
+            }
+
+            ans = Math.max(ans, largestRectangleArea(heights));
+        }
+
+        return ans;
+    }
+
+
+    public int largestRectangleArea(int[] heights) {
+
+        Stack<Integer> st = new Stack<>();
+
+        int n = heights.length;
+        int ans = 0;
+
+        for (int i = 0; i < n; i++) {
+
+            while (!st.empty() && heights[st.peek()] > heights[i]) {
+
+                int index = st.pop();
+
+                if (!st.empty()) {
+
+                    ans = Math.max(ans,
+                        heights[index] * (i - st.peek() - 1));
+
+                } else {
+
+                    ans = Math.max(ans,
+                        heights[index] * i);
+                }
+            }
+
+            st.push(i);
+        }
+
+
+        while (!st.empty()) {
+
+            int index = st.pop();
+
+            if (!st.empty()) {
+
+                ans = Math.max(ans,
+                    heights[index] * (n - st.peek() - 1));
+
+            } else {
+
+                ans = Math.max(ans,
+                    heights[index] * n);
+            }
+        }
+
+        return ans;
+    }
+}
