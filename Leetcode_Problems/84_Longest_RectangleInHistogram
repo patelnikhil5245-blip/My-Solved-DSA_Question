@@ -1,0 +1,45 @@
+84.Longest Rectangle in Histogram:https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/2108131475/
+
+class Solution {
+    public int largestRectangleArea(int[] heights) {
+        Stack<Integer> st = new Stack<>();
+        int n = heights.length;
+        int ans = 0;
+
+        for (int i = 0; i < n; i++) {
+
+            while (!st.empty() && heights[st.peek()] > heights[i]) {
+
+                int index = st.pop();
+
+                if (!st.empty()) {
+                    ans = Math.max(ans,
+                        heights[index] * (i - st.peek() - 1));
+                } else {
+                    ans = Math.max(ans,
+                        heights[index] * i);
+                }
+            }
+
+            st.push(i);
+        }
+
+        // Remaining elements
+        while (!st.empty()) {
+
+            int index = st.pop();
+
+            if (!st.empty()) {
+                ans = Math.max(ans,
+                    heights[index] * (n - st.peek() - 1));
+            } else {
+                ans = Math.max(ans,
+                    heights[index] * n);
+            }
+        }
+
+        return ans;
+    }
+}
+
+
