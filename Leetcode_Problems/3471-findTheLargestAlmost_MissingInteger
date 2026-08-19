@@ -1,0 +1,40 @@
+
+3471-Find The Largest Almost Missing Integer :https://leetcode.com/problems/find-the-largest-almost-missing-integer/description/?envType=daily-question&envId=2026-08-18
+
+class Solution {
+    public int largestInteger(int[] nums, int k) {
+       
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        int n = nums.length;
+
+        // Generate every subarray of size k
+        for (int i = 0; i <= n - k; i++) {
+
+            HashSet<Integer> set = new HashSet<>();
+
+            // Current window
+            for (int j = i; j < i + k; j++) {
+                set.add(nums[j]);
+            }
+
+            // Count each distinct number only once
+            for (int x : set) {
+                map.put(x, map.getOrDefault(x, 0) + 1);
+            }
+        }
+
+        int ans = -1;
+
+        // Find largest number appearing in exactly one window
+        for (int x : map.keySet()) {
+
+            if (map.get(x) == 1) {
+                ans = Math.max(ans, x);
+            }
+        }
+
+        return ans;
+
+    }
+} 
