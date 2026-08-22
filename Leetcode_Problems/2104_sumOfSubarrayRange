@@ -1,0 +1,30 @@
+
+2104-Sub of SubArray Range :https://leetcode.com/problems/sum-of-subarray-ranges/description/
+
+class Solution {
+    public long subArrayRanges(int[] nums) {
+        return sumNR(nums);
+    }
+
+	public long sumNR(int [] a) {
+		return extSum(a, -1, new int [1], true) - extSum(a, -1, new int [1], false);
+	}
+
+	private long extSum(int [] a, int pi, int [] ind, boolean max) {
+		int i;
+		long sum = 0;
+		while ((i = ind[0]) < a.length && 
+				(max && (pi < 0 || a[i] < a[pi]) || !max && (pi < 0 || a[i] > a[pi]))) {
+			ind[0]++;
+			sum += extSum(a, i, ind, max) + c2diff(i - pi, ind[0] - i) * a[i];
+		}
+		return sum;
+	}
+
+	 private long c2diff(int a, int b) {
+    //return ((a + b) * (a + b - 1) - a * (a - 1) - b * (b - 1)) / 2;
+		return a * b;
+	}
+}
+
+
