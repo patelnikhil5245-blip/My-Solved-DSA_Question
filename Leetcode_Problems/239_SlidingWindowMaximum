@@ -1,0 +1,46 @@
+
+239-Sliding window Maximum :https://leetcode.com/problems/sliding-window-maximum/description/
+
+class Solution {
+    public int[] maxSlidingWindow(int[] nums, int k) {
+
+        List<Integer> ans = new ArrayList<>();
+        Deque<Integer> dq = new ArrayDeque<>();
+
+        // Build first window
+        for(int i = 0; i < k; i++) {
+
+            while(!dq.isEmpty() && nums[i] > nums[dq.peekLast()]) {
+                dq.removeLast();
+            }
+
+            dq.addLast(i);
+        }
+
+        // Maximum of first window
+        ans.add(nums[dq.peekFirst()]);
+
+        // Process remaining windows
+        for(int i = k; i < nums.length; i++) {
+
+            // Remove smaller elements
+            while(!dq.isEmpty() && nums[i] > nums[dq.peekLast()]) {
+                dq.removeLast();
+            }
+
+            dq.addLast(i);
+
+            // Remove elements outside window
+            if(dq.peekFirst() <= i - k) {
+                dq.removeFirst();
+            }
+
+            // Maximum
+            ans.add(nums[dq.peekFirst()]);
+        }
+
+        return ans.stream()
+                  .mapToInt(Integer::intValue)
+                  .toArray();
+    }
+}
