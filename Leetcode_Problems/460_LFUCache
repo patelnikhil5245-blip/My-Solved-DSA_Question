@@ -1,0 +1,238 @@
+
+460-LFU Cache
+https://leetcode.com/problems/lfu-cache/
+
+import java.util.HashMap;
+import java.util.Map;
+
+class LFUCache {
+
+    // Node stores key, value, frequency and pointers
+    class Node {
+        int key;
+        int value;
+        int cnt;
+
+        Node prev;
+        Node next;
+
+        Node(int key, int value) {
+            this.key = key;
+            this.value = value;
+            this.cnt = 1;
+        }
+    }
+
+    // Doubly Linked List for each frequency
+    class List {
+        int size;
+        Node head;
+        Node tail;
+
+        List() {
+            size = 0;
+
+            head = new Node(0, 0);
+            tail = new Node(0, 0);
+
+            head.next = tail;
+            tail.prev = head;
+        }
+
+        // Add node at front
+        void addFront(Node node) {
+            node.next = head.next;
+            node.prev = head;
+
+            head.next.prev = node;
+            head.next = node;
+
+            size++;
+        }
+
+        // Remove a node
+        void removeNode(Node node) {
+            node.prev.next = node.next;
+            node.next.prev = node.prev;
+
+            size--;
+        }
+
+        // Remove least recently used node
+        Node removeLast() {
+            if (size == 0) {
+                return null;
+            }
+
+            Node node = tail.prev;
+            removeNode(node);
+
+            return node;
+        }
+    }
+
+    // key -> Node
+    private Map<Integer, Node> keyNode;
+
+    // frequency -> Doubly Linked List
+    private Map<Integer, List> freqListMap;
+
+    // Maximum capacity
+    private int maxSizeCache;
+
+    // Minimum frequency
+    private int minFreq;
+
+    // Current size
+    private int curSize;
+
+
+    // Constructor
+    public LFUCache(int capacity) {
+
+        maxSizeCache = capacity;
+        minFreq = 0;
+        curSize = 0;
+
+        keyNode = new HashMap<>();
+        freqListMap = new HashMap<>();
+    }
+
+
+    // Update frequency of a node
+    private void updateFreqListMap(Node node) {
+
+        // Remove node from key map temporarily
+        keyNode.remove(node.key);
+
+        // Get current frequency list
+        List currentList = freqListMap.get(node.cnt);
+
+        // Remove node from current frequency list
+        currentList.removeNode(node);
+
+        // If this was the last node of minimum frequency
+        if (node.cnt == minFreq && currentList.size == 0) {
+            minFreq++;
+        }
+
+        // Increase frequency
+        node.cnt++;
+
+        // Get/create next frequency list
+        List nextList;
+
+        if (freqListMap.containsKey(node.cnt)) {
+            nextList = freqListMap.get(node.cnt);
+        } else {
+            nextList = new List();
+        }
+
+        // Add node at front
+        nextList.addFront(node);
+
+        // Update frequency map
+        freqListMap.put(node.cnt, nextList);
+
+        // Put node back into key map
+        keyNode.put(node.key, node);
+    }
+
+
+    // Get value
+    public int get(int key) {
+
+        // Key doesn't exist
+        if (!keyNode.containsKey(key)) {
+            return -1;
+        }
+
+        Node node = keyNode.get(key);
+
+        int value = node.value;
+
+        // Increase frequency
+        updateFreqListMap(node);
+
+        return value;
+    }
+
+
+    // Put key-value
+    public void put(int key, int value) {
+
+        // Capacity is zero
+        if (maxSizeCache == 0) {
+            return;
+        }
+
+        // Key already exists
+        if (keyNode.containsKey(key)) {
+
+            Node node = keyNode.get(key);
+
+            // Update value
+            node.value = value;
+
+            // Increase frequency
+            updateFreqListMap(node);
+
+            return;
+        }
+
+
+        // Cache is full
+        if (curSize == maxSizeCache) {
+
+            // Get list having minimum frequency
+            List minFreqList = freqListMap.get(minFreq);
+
+            // Least recently used node is at tail.prev
+            Node nodeToRemove = minFreqList.tail.prev;
+
+            // Remove from key map
+            keyNode.remove(nodeToRemove.key);
+
+            // Remove from frequency list
+            minFreqList.removeNode(nodeToRemove);
+
+            // Decrease current size
+            curSize--;
+        }
+
+
+        // Increase cache size
+        curSize++;
+
+        // New node always has frequency 1
+        minFreq = 1;
+
+        // Get/create frequency 1 list
+        List listFreq;
+
+        if (freqListMap.containsKey(1)) {
+            listFreq = freqListMap.get(1);
+        } else {
+            listFreq = new List();
+        }
+
+        // Create new node
+        Node node = new Node(key, value);
+
+        // Add node at front
+        listFreq.addFront(node);
+
+        // Add to key map
+        keyNode.put(key, node);
+
+        // Update frequency map
+        freqListMap.put(1, listFreq);
+    }
+}
+
+/**
+ * Your LFUCache object will be instantiated and called as such:
+ * LFUCache obj = new LFUCache(capacity);
+ * int param_1 = obj.get(key);
+ * obj.put(key,value);
+ */
