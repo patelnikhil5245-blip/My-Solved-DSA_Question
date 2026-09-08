@@ -87,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3876-construct-uniform-parity-array-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3876-construct-uniform-parity-array-ii) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
