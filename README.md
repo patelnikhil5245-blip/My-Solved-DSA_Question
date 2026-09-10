@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0543-diameter-of-binary-tree) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0543-diameter-of-binary-tree) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0543-diameter-of-binary-tree) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0413-arithmetic-slices](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0413-arithmetic-slices) |
 ## Breadth-First Search
 |  |
@@ -155,5 +159,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
