@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0413-arithmetic-slices) |
+| [0835-image-overlap](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0904-fruit-into-baskets) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0835-image-overlap) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Binary Search
 |  |
