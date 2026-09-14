@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0836-rectangle-overlap) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3871-count-commas-in-range-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0543-diameter-of-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
