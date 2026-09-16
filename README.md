@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3871-count-commas-in-range-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -167,11 +168,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0209-minimum-size-subarray-sum) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0413-arithmetic-slices](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0413-arithmetic-slices) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Breadth-First Search
@@ -193,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
