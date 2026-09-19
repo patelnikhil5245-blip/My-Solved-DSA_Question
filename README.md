@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0072-edit-distance) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Recursion
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0413-arithmetic-slices](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0413-arithmetic-slices) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
