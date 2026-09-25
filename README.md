@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3238-find-the-number-of-winning-players](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3238-find-the-number-of-winning-players) |
 | [3483-unique-3-digit-even-numbers](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Counting
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Greedy
 |  |
 | ------- |
