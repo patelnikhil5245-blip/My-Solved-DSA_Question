@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3238-find-the-number-of-winning-players](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3238-find-the-number-of-winning-players) |
 | [3483-unique-3-digit-even-numbers](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3483-unique-3-digit-even-numbers) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0072-edit-distance) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3498-reverse-degree-of-a-string) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
