@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0228-summary-ranges) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0413-arithmetic-slices) |
 | [0835-image-overlap](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0904-fruit-into-baskets) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0904-fruit-into-baskets](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
