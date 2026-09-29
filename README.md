@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0039-combination-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0228-summary-ranges) |
@@ -242,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
