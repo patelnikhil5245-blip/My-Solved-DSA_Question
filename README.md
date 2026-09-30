@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0041-first-missing-positive) |
 | [0209-minimum-size-subarray-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0228-summary-ranges) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0904-fruit-into-baskets](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0904-fruit-into-baskets) |
