@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,10 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3238-find-the-number-of-winning-players](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3238-find-the-number-of-winning-players) |
 | [3483-unique-3-digit-even-numbers](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting
 |  |
 | ------- |
 | [3238-find-the-number-of-winning-players](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3238-find-the-number-of-winning-players) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Greedy
 |  |
 | ------- |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3498-reverse-degree-of-a-string) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Game Theory
 |  |
 | ------- |
@@ -249,4 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0039-combination-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
