@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0072-edit-distance) |
 | [0678-valid-parenthesis-string](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Backtracking
 |  |
