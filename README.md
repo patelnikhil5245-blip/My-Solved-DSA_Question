@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2660-determine-the-winner-of-a-bowling-game) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3238-find-the-number-of-winning-players](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3238-find-the-number-of-winning-players) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3483-unique-3-digit-even-numbers) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Two Pointers
