@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0073-set-matrix-zeroes) |
+| [0090-subsets-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0090-subsets-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0228-summary-ranges) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0039-combination-sum) |
+| [0090-subsets-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0113-path-sum-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
