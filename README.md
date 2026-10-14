@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Math
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3222-find-the-winning-player-in-coin-game](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3524-find-x-value-of-array-i](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Linked List
