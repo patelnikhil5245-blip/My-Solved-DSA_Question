@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
