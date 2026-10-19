@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2396-strictly-palindromic-number](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2396-strictly-palindromic-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2396-strictly-palindromic-number](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2396-strictly-palindromic-number) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3524-find-x-value-of-array-i](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0572-subtree-of-another-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
