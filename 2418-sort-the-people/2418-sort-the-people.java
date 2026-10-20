@@ -1,12 +1,17 @@
-import java.util.*;
 class Solution {
     public String[] sortPeople(String[] names, int[] heights) {
-        Hashtable<Integer, String> tb = new Hashtable<>();
-        for (int i = 0; i < heights.length; i++) {
-            tb.put(heights[i], names[i]);
+        Integer[] idx = new Integer[names.length];
+        // (1) fill idx with 0, 1, 2, ... n-1
+        for (int i = 0; i < idx.length; i++) {
+            idx[i] = i;
         }
-    TreeMap<Integer, String> map =new TreeMap<>(Collections.reverseOrder());
-    map.putAll(tb);
-   return map.values().toArray(new String[0]);
+        // (2) the comparator goes here, inside the sort call
+        Arrays.sort(idx, (a, b) -> heights[b] - heights[a]);
+        // (3) build the answer using the sorted indices
+        String[] result = new String[names.length];
+        for (int i = 0; i < result.length; i++) {
+            result[i] = names[idx[i]];
+        }
+        return result;
     }
 }
