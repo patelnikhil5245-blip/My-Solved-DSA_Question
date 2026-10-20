@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2365-task-scheduler-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2365-task-scheduler-ii) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2399-check-distances-between-same-letters) |
+| [2418-sort-the-people](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2660-determine-the-winner-of-a-bowling-game) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2365-task-scheduler-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2365-task-scheduler-ii) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2399-check-distances-between-same-letters) |
+| [2418-sort-the-people](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3238-find-the-number-of-winning-players) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2399-check-distances-between-same-letters](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2399-check-distances-between-same-letters) |
+| [2418-sort-the-people](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2418-sort-the-people) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3498-reverse-degree-of-a-string) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2418-sort-the-people](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2418-sort-the-people) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
