@@ -1,10 +1,10 @@
 
 class Solution {
     public int minOperations(String s) {
-        int n = s.length();
+        int n=s.length();
       boolean sorted = true;
-        for (int i = 0; i < n - 1; i++) {
-           if (s.charAt(i) > s.charAt(i + 1)) {
+        for (int i = 0;i<n-1;i++) {
+           if (s.charAt(i)>s.charAt(i+1)) {
                 sorted = false;
                 break;
             }
@@ -13,11 +13,11 @@ class Solution {
         if (n == 2) return -1;
         char mn = 'z';
         char mx = 'a';
-        for (int i = 0; i < n; i++) {
-            mn = (char) Math.min(mn, s.charAt(i));
-            mx = (char) Math.max(mx, s.charAt(i));
+        for (int i = 0;i<n;i++) {
+            mn = (char) Math.min(mn,s.charAt(i));
+            mx = (char) Math.max(mx,s.charAt(i));
         }
-        if (s.charAt(0) == mn || s.charAt(n - 1) == mx) {
+        if (s.charAt(0)==mn||s.charAt(n - 1)==mx) {
             return 1;
         }
         boolean mnInPrefix = false;
