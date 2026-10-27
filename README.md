@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3238-find-the-number-of-winning-players) |
 | [3483-unique-3-digit-even-numbers](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3483-unique-3-digit-even-numbers) |
