@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2399-check-distances-between-same-letters](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2399-check-distances-between-same-letters) |
 | [2409-count-days-spent-together](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2418-sort-the-people) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2396-strictly-palindromic-number](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2409-count-days-spent-together) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3222-find-the-winning-player-in-coin-game) |
