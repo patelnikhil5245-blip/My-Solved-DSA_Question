@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2540-minimum-common-value](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2540-minimum-common-value) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2660-determine-the-winner-of-a-bowling-game) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2540-minimum-common-value](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2540-minimum-common-value) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3238-find-the-number-of-winning-players) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2540-minimum-common-value](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
