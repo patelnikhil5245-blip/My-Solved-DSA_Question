@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3814-maximum-capacity-within-budget](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3814-maximum-capacity-within-budget) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3814-maximum-capacity-within-budget](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3814-maximum-capacity-within-budget) |
 ## Union-Find
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3814-maximum-capacity-within-budget](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3814-maximum-capacity-within-budget) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Greedy
 |  |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3814-maximum-capacity-within-budget](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/3814-maximum-capacity-within-budget) |
 ## Prefix Sum
 |  |
 | ------- |
