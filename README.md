@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0228-summary-ranges) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0413-arithmetic-slices) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0904-fruit-into-baskets) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0263-ugly-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
