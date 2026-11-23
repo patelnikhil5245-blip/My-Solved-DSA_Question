@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0572-subtree-of-another-tree) |
+| [0814-binary-tree-pruning](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0814-binary-tree-pruning) |
 | [0965-univalued-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0572-subtree-of-another-tree) |
+| [0814-binary-tree-pruning](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0814-binary-tree-pruning) |
 | [0965-univalued-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0572-subtree-of-another-tree) |
+| [0814-binary-tree-pruning](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0814-binary-tree-pruning) |
 | [0965-univalued-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/patelnikhil5245-blip/My-Solved-DSA_Question/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
